@@ -1,6 +1,6 @@
-# App
+# App - Domain-Driven Design (DDD)
 
-GymPass style app.
+GymPass style app 
 
 ## RFs (Requisitos funcionais)
 
